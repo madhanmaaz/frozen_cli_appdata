@@ -1,6 +1,5 @@
 {
     "repos": [
-        "node_server",
-        "app2"
+        "node_server"
     ]
 }
