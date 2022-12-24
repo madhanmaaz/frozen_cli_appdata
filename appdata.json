@@ -1,7 +1,6 @@
 {
     "repos": [
         "node_server",
-        "frozen_extension",
-        "a"
+        "frozen_extension"
     ]
 }
